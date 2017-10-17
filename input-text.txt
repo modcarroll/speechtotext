@@ -1,0 +1,1904 @@
+                                                                                                        {
+   "results": [
+      {
+         "alternatives": [
+            {
+               "confidence": 0.693, 
+               "transcript": "yeah of the great state of Illinois "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.545, 
+               "transcript": "all through the nation "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.961, 
+               "transcript": "land of Lincoln "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.999, 
+               "transcript": "let me express my deepest gratitude "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.999, 
+               "transcript": "for the privilege of addressing this convention "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.934, 
+               "transcript": "tonight is a particular honor for me because let's face it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.968, 
+               "transcript": "my presence on this stage is pretty unlikely "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.858, 
+               "transcript": "my father was a foreign student "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.949, 
+               "transcript": "born and raised in a small village in Kenya "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.877, 
+               "transcript": "he grew up herding goats "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.909, 
+               "transcript": "went to school in a tin roof shed his father my grandfather was a cook a domestic servant to the British "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.876, 
+               "transcript": "but my grandfather had larger dreams for his son "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.999, 
+               "transcript": "through hard work and perseverance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.995, 
+               "transcript": "my father got a scholarship to study in a magical place "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.796, 
+               "transcript": "America "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.921, 
+               "transcript": "that shown as a beacon of freedom and opportunity to so many would come before "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.779, 
+               "transcript": "while studying here "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.645, 
+               "transcript": "my father met my mother "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.938, 
+               "transcript": "she was born in a town on the other side of the world "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.924, 
+               "transcript": "in Kansas "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.818, 
+               "transcript": "her father worked on oil rigs and farms through most of the depression "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.917, 
+               "transcript": "the day after Pearl Harbor my grandfather signed up for duty "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.929, 
+               "transcript": "join Patton's army marched across Europe "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.783, 
+               "transcript": "back home I grandmother raise the baby and went to work on a bomber assembly line "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.947, 
+               "transcript": "after the war they studied on the GI bill "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.729, 
+               "transcript": "but a house through FHA "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.93, 
+               "transcript": "and later moved west all the way to Hawaii in search of opportunity "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.766, 
+               "transcript": "and they too had big dreams for their daughter "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.655, 
+               "transcript": "a common dream born of two continents "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.94, 
+               "transcript": "my parents shared not only an improbable love they shared an abiding faith in the possibilities of this nation "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.806, 
+               "transcript": "they would give me an African named Barack "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.881, 
+               "transcript": "or blessing believing that in a tolerant America your name is no barrier to success "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.475, 
+               "transcript": "limiting the voice of the best schools "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.89, 
+               "transcript": "in the land even though they weren't rich because in a generous America you don't have to be rich "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.919, 
+               "transcript": "to achieve your potential "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.739, 
+               "transcript": "they're both passed away now "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.963, 
+               "transcript": "and yet I know that on this night they don't look down on me with great pride "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.971, 
+               "transcript": "they stand here and I stand here today "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.998, 
+               "transcript": "grateful for the diversity of my heritage "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.891, 
+               "transcript": "aware that my parents dreams live on in my two precious daughters "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.953, 
+               "transcript": "I stand here knowing that my story is part of the larger American story that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.891, 
+               "transcript": "I hold a debt to all of those who came before me and that in no other country on earth "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.991, 
+               "transcript": "my story even possible "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.038, 
+               "transcript": "denying "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.867, 
+               "transcript": "we gather to affirm the greatness of our nation "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.783, 
+               "transcript": "not because of the height of our skyscrapers or the power of our military or the size of our kind "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.808, 
+               "transcript": "Reid is based on a very slow "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.991, 
+               "transcript": "summed up in a declaration made over two hundred years ago "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0, 
+               "transcript": "we hold these truths to be self evident "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.978, 
+               "transcript": "that all men are created equal "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.989, 
+               "transcript": "they are endowed by their creator with certain inalienable rights "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.998, 
+               "transcript": "among these are life "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.845, 
+               "transcript": "liberty "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.999, 
+               "transcript": "the pursuit of happiness "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.19, 
+               "transcript": "that "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.928, 
+               "transcript": "is the true genius of America "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.137, 
+               "transcript": "a fair "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.747, 
+               "transcript": "in simple dreams "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.914, 
+               "transcript": "fun insistence on small Americans "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.915, 
+               "transcript": "that we can talk in our children at night "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.904, 
+               "transcript": "and know that they are fed and clothed and safe from harm "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.868, 
+               "transcript": "that we can say what we think right what we think without hearing a sudden knock on the door "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.919, 
+               "transcript": "that we can have an idea and start our own business "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.654, 
+               "transcript": "without paying a Buck "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.949, 
+               "transcript": "that we can participate in the political process without fear of retribution and there are votes will be counted "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.986, 
+               "transcript": "at least most of the time "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.907, 
+               "transcript": "this year in this election we are called "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.863, 
+               "transcript": "to reaffirm our values and our to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.831, 
+               "transcript": "hold them against "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.98, 
+               "transcript": "hard reality "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.58, 
+               "transcript": "you know we're measuring up "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.653, 
+               "transcript": "the legacy of our forebears "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.287, 
+               "transcript": "promise of "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.912, 
+               "transcript": "generations "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0, 
+               "transcript": "and fellow Americans Democrats Republicans independents I say to you tonight we have more work to do "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.859, 
+               "transcript": "more work to do "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.859, 
+               "transcript": "for the workers I met in Galesburg Illinois "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.754, 
+               "transcript": "we're losing their union jobs of the Maytag plan "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.927, 
+               "transcript": "moving to Mexico "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.722, 
+               "transcript": "and now we're having to come "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.935, 
+               "transcript": "with their own children for jobs that pay seven Bucks an hour "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.949, 
+               "transcript": "more to do for the father that I met who was losing his job and choking back the tears wondering how he would pay forty five hundred dollars a month "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.808, 
+               "transcript": "for the drugs his son needs without the health benefits be counted on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.757, 
+               "transcript": "more to do for the young woman in the Saint Louis and thousands more like her who has been raised have the drive has the will but doesn't have the money to go to college "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.951, 
+               "transcript": "now don't get me wrong the people I meet in small towns and big cities in diners "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.972, 
+               "transcript": "and office parks they don't expect government to solve all the problems "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.868, 
+               "transcript": "they know they have to work hard to get ahead and they want to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.954, 
+               "transcript": "going to the collar counties around Chicago and people will tell you they don't want their tax money wasted by welfare agency or by the Pentagon "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.079, 
+               "transcript": "Roland "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.741, 
+               "transcript": "Colin nter city neighborhood "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.622, 
+               "transcript": "wolf will tell you "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.921, 
+               "transcript": "the government alone can't teach our kids to learn they know the parents have to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.926, 
+               "transcript": "children can achieve unless we raise our expectations "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.703, 
+               "transcript": "turn off the television sets and a radically the Flanner this as a black youth with a book is acting white they know those words "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.824, 
+               "transcript": "people voted for the government to solve all their problems "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.722, 
+               "transcript": "but they sense deep in their bones "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.943, 
+               "transcript": "that would just a slight change in priorities we can make sure that every child America "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.698, 
+               "transcript": "shot of like "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.916, 
+               "transcript": "and the doors of opportunity remain open to all they you know "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.922, 
+               "transcript": "can do better "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.793, 
+               "transcript": "and they want their choice "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.857, 
+               "transcript": "in this election we offer that shorts "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.913, 
+               "transcript": "our party has chosen a man to lead us one body is the best "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.875, 
+               "transcript": "this country has to offer and that man is John Kerry "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.859, 
+               "transcript": "John Kerry understands the ideals of community based on service because they define his life "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.828, 
+               "transcript": "from zero in service to Vietnam through his years as a prosecutor and lieutenant governor "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.957, 
+               "transcript": "through two decades in the United States "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.686, 
+               "transcript": "I voted himself to this country "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.92, 
+               "transcript": "again and again we've seen to make tough choices one easier ones were available his values and his record "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.524, 
+               "transcript": "affirm what is best in us "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.898, 
+               "transcript": "John Kerry believes in America where hard work is rewarded so instead of offering tax breaks to companies shipping jobs overseas he offers them the companies creating jobs here at home "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.887, 
+               "transcript": "John Kerry believes in America where all Americans "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.838, 
+               "transcript": "the for the same health coverage on politicians in Washington path for themselves "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.841, 
+               "transcript": "John Kerry "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.794, 
+               "transcript": "please in energy independence "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.945, 
+               "transcript": "so we are held hostage to the profits of oil companies or the sabotage of foreign oil fields "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.993, 
+               "transcript": "John Kerry believes in the constitutional freedoms "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.759, 
+               "transcript": "that have made our country then be of the world "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.975, 
+               "transcript": "and you will never sacrifice our basic liberties "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.698, 
+               "transcript": "nor you space as a wedge to the violence "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.919, 
+               "transcript": "and John Kerry believes "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.914, 
+               "transcript": "that in a dangerous world "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.895, 
+               "transcript": "war must be an option "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.977, 
+               "transcript": "times but "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.996, 
+               "transcript": "never be "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.473, 
+               "transcript": "first stops "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.832, 
+               "transcript": "you know "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.807, 
+               "transcript": "awhile back "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.917, 
+               "transcript": "awhile back I met a young man named Seamus "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.928, 
+               "transcript": "the VFW hall in east Moline Illinois "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.791, 
+               "transcript": "he was a good looking kid six two six three clear eyed with an easy so "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.83, 
+               "transcript": "he told me he joined the marines and was heading to rock the following week "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.761, 
+               "transcript": "and as I listen to X. him explain why he didn't list "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.912, 
+               "transcript": "the absolute faith he had in our country and its leaders his devotion to duty and service I thought this young man was all that any of us might ever hope for insight "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.859, 
+               "transcript": "but then I ask myself "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.845, 
+               "transcript": "are we serving Seamus as well as he is serving us "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.947, 
+               "transcript": "I thought of the nine hundred men and women sons and daughters husbands and wives friends and neighbors who won't be returning to their own hometowns "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.734, 
+               "transcript": "I thought of the families I've met who were struggling to get by without a loved one's full income or his loved ones had returned with a limit sing "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.776, 
+               "transcript": "Warner shattered but still lack long term health benefits because they were reservists "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.977, 
+               "transcript": "when we send our young men and women into harm's way we have a solemn obligation "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.87, 
+               "transcript": "the fudge the numbers or say the truth about why they're going "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.946, 
+               "transcript": "care for their families while they're gone "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.5, 
+               "transcript": "soon after the soldiers upon their return "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.512, 
+               "transcript": "you know "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.071, 
+               "transcript": "he "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.832, 
+               "transcript": "the world "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.624, 
+               "transcript": "Coleman was clear let me be clear "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.967, 
+               "transcript": "we have real enemies in the world "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.998, 
+               "transcript": "these enemies must be found "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.966, 
+               "transcript": "they must be pursued and they must be defeated "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.983, 
+               "transcript": "John Kerry knows this "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.865, 
+               "transcript": "and just as lieutenant Carey did not hesitate to risk his life to protect the man "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.927, 
+               "transcript": "I served with him in Vietnam president Kerry will not hesitate one moment to use our military might to keep America safe and secure "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.936, 
+               "transcript": "John Kerry believes in America "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.758, 
+               "transcript": "and he knows that is not enough for just some of us to prosper "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.738, 
+               "transcript": "for alongside our famous individualism there's another ingredient "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.817, 
+               "transcript": "in the American side "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.763, 
+               "transcript": "I believe that we're all connected as one people "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.888, 
+               "transcript": "if there is a child on the south side of Chicago who can read that matters to me even if it's not much on "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.783, 
+               "transcript": "if there's a senior citizen somewhere who can't pay for their prescription drugs penumbra choose between medicine on the web "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.641, 
+               "transcript": "goodness well I pour even if it's not my grandparents "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.45, 
+               "transcript": "if "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.96, 
+               "transcript": "American family being rounded up without benefit of an attorney or due process that threatens my civil war "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.757, 
+               "transcript": "this is the fundamental belief "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.963, 
+               "transcript": "my brother's keeper "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.947, 
+               "transcript": "and my sister's keeper that makes this country work "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.13, 
+               "transcript": "if "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.642, 
+               "transcript": "to her through our individual dreams "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.873, 
+               "transcript": "and yet still come together as one American "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.216, 
+               "transcript": "floor by phone "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.937, 
+               "transcript": "out of many one "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.738, 
+               "transcript": "now even as we speak there are those who are preparing to device "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.796, 
+               "transcript": "spin masters megabat peddlers who embrace the politics of anything goes "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.939, 
+               "transcript": "well "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.938, 
+               "transcript": "I say to them tonight there is not a liberal America and a conservative America there is the United States "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.795, 
+               "transcript": "of America "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.796, 
+               "transcript": "do we participate "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.958, 
+               "transcript": "in the politics of cynicism "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.982, 
+               "transcript": "or do we participate in the politics of hope "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.893, 
+               "transcript": "John Kerry calls on us to who "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.975, 
+               "transcript": "John Edwards calls on us to hope I'm not talking about blind optimism here "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.941, 
+               "transcript": "they almost willful ignorance "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.86, 
+               "transcript": "if things unemployment will go away if we just don't think about it "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.776, 
+               "transcript": "or healthcare crisis will solve itself if we just ignored that's not what I'm talking about I'm talking about "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 1.0, 
+               "transcript": "something more substantial "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.846, 
+               "transcript": "it's the hope of slave sitting around a fire singing freedom songs "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.719, 
+               "transcript": "the whole of immigrants setting out for deaf distant shores "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.849, 
+               "transcript": "the whole point of a young naval lieutenant bravely patrolling the Mekong Delta the hope of a mill worker son who dares to defy the odds the hope of a skinny kid with a funny name who believes that America has a place for him to "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.925, 
+               "transcript": "Google "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.631, 
+               "transcript": "in the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.195, 
+               "transcript": "floating through "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.339, 
+               "transcript": "the whole "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.358, 
+               "transcript": "a drop of this name "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.691, 
+               "transcript": "I believe "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.988, 
+               "transcript": "things not "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.864, 
+               "transcript": "I believe that they're better days ahead "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.974, 
+               "transcript": "I believe that we can give our middle class relief "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.95, 
+               "transcript": "working families with the road opera "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.986, 
+               "transcript": "I believe we can provide "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.829, 
+               "transcript": "jobless poems to the homeless and reclaim young people in cities across America "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.769, 
+               "transcript": "violence in the spare "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.852, 
+               "transcript": "I believe that we have a wide to swim in our bags and that is we stand on the crossroads of history we can make the right choices and meet the challenges that face us America tonight if you feel the same energy that I do if you feel the same urgency that I do if you feel the same passion that I do if you still the same old thing was that I do "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.902, 
+               "transcript": "if we do what we must do that I have no doubt "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.877, 
+               "transcript": "all across the country from Florida to Oregon from Washington to man "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.975, 
+               "transcript": "the "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.889, 
+               "transcript": "Jerry will be sworn in as president "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.876, 
+               "transcript": "Edwards will be sworn in as vice president "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.709, 
+               "transcript": "and this country will reclaim its prime "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.757, 
+               "transcript": "out of this wall political darkness "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.978, 
+               "transcript": "a brighter day will come "
+            }
+         ], 
+         "final": true
+      }, 
+      {
+         "alternatives": [
+            {
+               "confidence": 0.573, 
+               "transcript": "you very much everybody "
+            }
+         ], 
+         "final": true
+      }
+   ], 
+   "result_index": 0
+}
